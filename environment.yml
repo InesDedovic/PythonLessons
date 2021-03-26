@@ -9,4 +9,3 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
-    - opencv-python
